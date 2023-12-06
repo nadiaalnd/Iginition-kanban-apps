@@ -104,3 +104,6 @@ dist
 
 # Package lock
 package-lock.json
+
+# idea files
+.idea/
