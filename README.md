@@ -53,7 +53,7 @@ Kanban Board project built with MEVN Stack (MongoDB, Express, Vue, Node.js)
 ## Notes
 
 - Ensure you have node.js installed on your system to run this application.
-- If you want to use external MongoDB database, create environment file (.config.js) and change its content like below.
+- If you want to use external MongoDB database, change config file (.config.js) and change its content like below.
   > ```
   > MONGO_DB_URI: process.env.MONGO_DB_URI || '<YOUR-MONGO-DB-URI>'
   > ```
